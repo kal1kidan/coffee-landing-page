@@ -51,3 +51,7 @@ To view or edit this project:
 1. Clone the repo  
    ```bash
    git clone https://github.com/kal1kidan/coffee-landing-page.git
+  ---
+
+🔗 **Connect with me on LinkedIn:** [Kalkidan Asdesach](https://www.linkedin.com/in/kalkidan-asdesach/)
+
