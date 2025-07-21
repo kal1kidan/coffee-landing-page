@@ -1,6 +1,6 @@
 # ☕ Coffee Landing Page
 
-A simple, beginner-friendly landing page built using only **HTML** and **basic CSS** as part of my web development journey. This project is based on concepts learned from [freeCodeCamp's Basic CSS curriculum](https://www.freecodecamp.org/).
+A simple, beginner-friendly landing page built using only **HTML** and **basic CSS** as part of my web development journey. This project is based on concepts learned from [freeCodeCamp's Certified Full Stack Developer Curriculum](https://www.freecodecamp.org/).
 
 ---
 
