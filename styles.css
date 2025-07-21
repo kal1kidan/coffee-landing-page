@@ -1,0 +1,77 @@
+body {
+  background-image: url("https://upload.wikimedia.org/wikipedia/commons/c/c5/Roasted_coffee_beans.jpg");
+  background-size: cover;
+  background-position: center;
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  color: #3e2723;
+}
+.content-wrapper {
+  background-color: rgba(255, 248, 220, 0.9); /* light color w/ transparency */
+  margin: 40px auto;
+  padding: 30px;
+  max-width: 900px;
+  border-radius: 15px;
+  box-shadow: 0 0 20px rgba(0,0,0,0.2);
+}
+
+h1{Font-size: 32px;}
+.tagline{font-size: 18px;}
+.about{text-align:left;}
+p{font-size: 16px; color: #333;}
+a{color: #1e88e5; text-decoration: none;}
+.menu{display:inline-block;}
+.flavor {
+    display: inline-block;
+    width: 75%;
+    text-align: left;
+    margin: 0;
+    vertical-align: middle;
+}
+.price {
+    display: inline-block;
+    width: 24%; 
+    text-align: right;
+    margin: 0;
+    vertical-align: middle;
+}
+.menu p {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+address{text-align:center;}
+img{width:100%;
+max-width: 300px;
+border-radius: 10px;}
+input{width:30%;
+padding: 10px;
+border:1px solid #ccc;
+Margin-bottom: 10px;}
+button {
+  background-color: #6d4c41;
+  color: white;
+  border: none;
+  cursor: pointer;
+  padding: 10px 20px;
+}
+button:hover {
+  background-color: #5d4037;
+}
+footer{background-color:#d7ccc8; text-align: center; font-size: 14px; padding:15px;}
+textarea {
+  width: 80%;
+  max-width: 400px;
+}
+.menu article {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.inline-img {
+  width: 100px;
+  display: block;
+  margin: 0 auto 20px auto;
+}
+
